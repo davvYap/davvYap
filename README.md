@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yap from Malaysia, currently working in Singapore.<img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40" height="40" />
+- <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="30" height="30" />Hi, I’m Yap from Malaysia, currently working in Singapore.
 - 👀 I’m interested in programming & coding.
 - 🌱 I’m currently learning Python & JS.
 - 💞️ I’m looking to collaborate on ...
