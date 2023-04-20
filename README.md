@@ -4,7 +4,7 @@
 
 ![David's GitHub stats](https://github-readme-stats-jet-beta.vercel.app/api?username=davvyap&show_icons=true&theme=panda)
 
-[![Top Langs](https://github-readme-stats-jet-beta.vercel.app/api/top-langs/?username=davvyap&layout=compact&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jet-beta.vercel.app/api/top-langs/?username=davvyap&layout=compact&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 davvYap/davvYap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
